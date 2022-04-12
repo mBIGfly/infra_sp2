@@ -1,3 +1,4 @@
+![Workflow Status](https://github.com/mBIGfly/infra_actions/actions/workflows/main.yml/badge.svg?branch=master&event=push)
 API для сервиса YAMDB
 
 Автор mBIGfly - проект создан в рамках обучения ЯПрактикум, курса Python-разработчик.
